@@ -46,8 +46,7 @@ body {
 }
 
 .hero-pattern {
-    background-image: url('latar.jpg');
-    /* atau 'images/latar.jpeg' jika di subfolder */
+    background-image: url('img/latar.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
